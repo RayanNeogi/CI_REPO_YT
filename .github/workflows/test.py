@@ -30,3 +30,4 @@ def test_invalid_input():
         cube("b")
     with pytest.raises(TypeError):
         fifth_power("c")
+        
